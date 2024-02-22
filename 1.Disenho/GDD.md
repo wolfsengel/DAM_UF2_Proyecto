@@ -1,53 +1,42 @@
 # GDD
 
-## PRESENTACIÓN/RESUMEN
+## PRESENTACIÓN/RESUMEN
 
-- Título. 
-- Concepto: descripción breve (un párrafo) de las ideas principales del juego
-- Género (puede ser más de uno)
-- Público (target audience)
-- Plataforma (PC, smartphone, tablet,...)
-
+- **Título:** Galicia Run Simulator
+- **Concepto:** Eres un soldado de Ourense, tienes que derrotar a todos los lucenses que veas poseídos por el camino y derrotar al hongo invasor que controla Galicia
+- **Género:** Violencia, Guerra, Obsceno
+- **Público:** Galician Teenagers
+- **Plataforma:** Windows or Linux
 
 ## GAMEPLAY
 
-### Objetivos
+### Objetivos
 
-Descripción de cuáles son los objetivos principales (y secundarios si los hay) del juego
+El objetivo principal del juego es derrotar al hongo invasor que controla Galicia, enfrentándote a hordas de lucenses poseídos en el camino. Los objetivos secundarios pueden incluir los speedrun.
 
-#### Jugabilidad
+#### Jugabilidad
 
-Descripción de la interacción y experiencia del jugador. Sistemas de premios o recompensas. Puzzles,...
+La jugabilidad se centra en la acción y el combate, donde el jugador utilizará diferentes habilidades para enfrentarse a enemigos variados. Se pueden incluir elementos de estrategia, como la planificación de rutas para maximizar el impacto enemigo.
 
 ### Progresión
 
-Avance entre las distintas fases (si las hay) del juego.
+La progresión del juego se divide en niveles, cada uno con su conjunto de desafíos y enemigos. A medida que el jugador avanza, puede desbloquear nuevas armas, habilidades y mejoras para enfrentar desafíos más difíciles. La historia se desarrolla a lo largo de la progresión, revelando más sobre el origen del hongo invasor.
 
 ### GUI
 
-Descripción del GUI y de la información mostrada al jugador durante el desarrollo de la partida
+El GUI mostrará información vital.
 
 ## MECÁNICAS
 
-- Reglas: condiciones de victoria, condiciones de pérdida, reglas de combate,...
-- Interacción: controles e interacción del jugador con el personaje, acciones posibles, interacción con otros elementos o personajes,...
-- Puntaje: sistema de puntaje
-- Dificultad: parámetros de dificultad progresiva
+- Reglas: El jugador gana al derrotar al hongo invasor y pierde si su salud llega a cero. El combate es esencial, pero también se pueden incorporar elementos de sigilo y estrategia.
+- Interacción: Controles intuitivos para mover al personaje, apuntar y disparar. Interacción con objetos del entorno para obtener recursos. Posibilidad de reclutar aliados para enfrentar desafíos más grandes.
+- Dificultad: Aumenta con la progresión, introduciendo enemigos más fuertes y desafíos más complejos.
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
-Caracterización del mundo/entorno en el que se desarrolla el videojuego (Worldbuilding). Puede incluir:
-
-- Leyes físicas
-- Historia
-- Personajes: descripción, arte,...
-- Niveles
-- Elementos culturales o geográficos
-- ...
+El juego se desarrolla en una Galicia invadida por un hongo lucense, transformando a los habitantes en criaturas hostiles. Los escenarios incluyen campos, bosques y áreas de guerra afectadas por la invasión. Se pueden incorporar elementos de la cultura gallega en el diseño del mundo.
 
 ## ASSETS
 
-- Música
-- Efectos de sonido
-- Modelos 2D/3D
-- ...
+- Música: Banda sonora épica que intensifica la experiencia del juego, con tonos gallegos.
+- Modelos 2D: Arte detallado de personajes, enemigos y entornos, capturando la esencia de Galicia y la invasión fungil.
