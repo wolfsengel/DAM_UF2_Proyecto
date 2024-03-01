@@ -8,7 +8,7 @@
 - **Público:** Galician Teenagers
 - **Plataforma:** Windows or Linux
 
-  ![Poster](IMG/Poster.jpg)
+  ![Poster](IMG/PosterInicial.jpg)
 
 ## GAMEPLAY
 
