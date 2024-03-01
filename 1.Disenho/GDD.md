@@ -51,6 +51,9 @@ El GUI mostrará información vital.
 
 El juego se desarrolla en una Galicia invadida por un hongo lucense, transformando a los habitantes en criaturas hostiles. Los escenarios incluyen campos, bosques y áreas de guerra afectadas por la invasión. Se incorporan elementos de la cultura gallega en el diseño del mundo.
 
+![Malvada Seta](IMG/MalvadoPoster.jpg)  
+> Duras imágenes de la seta asesina atacando Lugo
+
 ## ASSETS
 
 - Música: Banda sonora épica que intensifica la experiencia del juego, con tonos gallegos.
