@@ -20,6 +20,19 @@ El objetivo principal del juego es derrotar al hongo invasor que controla Galici
 
 La jugabilidad se centra en la acción y el combate, donde el jugador utilizará diferentes habilidades para enfrentarse a enemigos variados. Se pueden incluir elementos de estrategia, como la planificación de rutas para maximizar el impacto enemigo.
 
+![1](IMG/InicioGame.png)  
+> Inicio del juego
+
+![1](IMG/InsaneParkour.png)  
+> Parkour Extremo
+
+![1](IMG/InsaneBattle.png)  
+> Batallas intensas y trepidantes
+
+![1](IMG/Healing.png)   
+> Recursos
+
+
 ### Progresión
 
 La progresión del juego se divide en niveles, cada uno con su conjunto de desafíos y enemigos. A medida que el jugador avanza, puede desbloquear nuevas armas, habilidades y mejoras para enfrentar desafíos más difíciles. La historia se desarrolla a lo largo de la progresión, revelando más sobre el origen del hongo invasor.
